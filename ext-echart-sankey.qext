@@ -1,19 +1,19 @@
 {
-    "name": "/\\Echart Sankey",
-    "type": "visualization",
-    "description": "Echart Sankey for Balance Sheets",
-    "icon": "stream",
-    "version": "0.1.0",
-    "changehistory": {
-        "0.1.0": "initial version"
-    },
-    "author": "Christof Schwarz",
-    "homepage": "www.databridge.ch",
-    "keywords": "qlik-sense, visualization",
-    "license": "MIT",
-    "repository": "https://github.com/ChristofSchwarz/qs_ext_sheetLinks",
-    "preview": "pics/databridgelogo.png",
-    "dependencies": {
-        "qlik-sense": ">=3.0.x"
-    }
+  "name": "/\\Echart Sankey",
+  "type": "visualization",
+  "description": "Echart Sankey for Balance Sheets",
+  "icon": "stream",
+  "version": "0.1.002",
+  "changehistory": {
+    "0.1.0": "initial version"
+  },
+  "author": "Christof Schwarz",
+  "homepage": "www.databridge.ch",
+  "keywords": "qlik-sense, visualization",
+  "license": "MIT",
+  "repository": "https://github.com/ChristofSchwarz/qs_ext_sheetLinks",
+  "preview": "pics/databridgelogo.png",
+  "dependencies": {
+    "qlik-sense": ">=3.0.x"
+  }
 }
